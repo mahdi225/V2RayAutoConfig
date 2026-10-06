@@ -1,6 +1,7 @@
 ss://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=cloudcircus.jp&fp=chrome&security=reality&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sid=#-%3EJP%2B%28%40DeamNet_Proxy%29%20%287%29
 ss://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477/?type=raw&encryption=none#JP-%3EJP%2B%28%40DeamNet_Proxy%29
 ss://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&security=reality&encryption=none&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#REALITY|JP🇯🇵
+ss://33e87cba-907f-4990-8dbd-a9d14e5d17e1@216.23.123.64:30718?sni=qqyst.sfht.kdns.fr&type=ws&host=qqyst.sfht.kdns.fr&path=/?ed=2048fp=chrome&security=tls#JP%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9133
 ss://36477315-2e11-4478-b85c-549133624eef@178.253.245.144:21562/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.nazhumi.com&fp=chrome&security=reality&pbk=saEF9IjGEOga3eZG962AMJRTM93cnsVVziketYU6s1M&sid=#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FShibuya%20City%F0%9F%85%BF%EF%B8%8Fping%3A234ms
 ss://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.50.53:443?path=%2Ftyxyws%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=jp3.yohototo.top&type=ws&allowInsecure=0&sni=jp3.yohototo.top#JP🇯🇵
 ss://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.75.118.144:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#JP🇯🇵
@@ -103,7 +104,6 @@ trojan://UX82473651@accurate-frog.rooster465.autos:443?allowInsecure=1&sni=accur
 trojan://UX82473651@accurate-frog.rooster465.autos:443?allowInsecure=1&sni=accurate-frog.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%231
 trojan://UX82473651@accurate-frog.rooster465.autos:443?allowInsecure=1&sni=accurate-frog.rooster465.autos#JP🇯🇵
 trojan://UX82473651@accurate-frog.rooster465.autos:443?security=tls&sni=accurate-frog.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.250.237.143-0253
-trojan://UX82473651@accurate-frog.rooster465.autos:443?security=tls&sni=accurate-frog.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.250.237.143-0526
 trojan://UX82473651@assuring-skink.rooster465.autos:443?allowInsecure=0&sni=assuring-skink.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2313
 trojan://UX82473651@assuring-skink.rooster465.autos:443?allowInsecure=0&sni=assuring-skink.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2313%202
 trojan://UX82473651@assuring-skink.rooster465.autos:443?allowInsecure=0&sni=assuring-skink.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2313%203
@@ -111,7 +111,6 @@ trojan://UX82473651@assuring-skink.rooster465.autos:443?allowInsecure=0&sni=assu
 trojan://UX82473651@assuring-skink.rooster465.autos:443?allowInsecure=0&sni=assuring-skink.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2313%205
 trojan://UX82473651@assuring-skink.rooster465.autos:443?allowInsecure=0&sni=assuring-skink.rooster465.autos#JP-176.34.5.100-0108
 trojan://UX82473651@assuring-skink.rooster465.autos:443?allowInsecure=1&sni=assuring-skink.rooster465.autos#JP🇯🇵
-trojan://UX82473651@assuring-skink.rooster465.autos:443?security=tls&sni=assuring-skink.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-176.34.5.100-0129
 trojan://UX82473651@assuring-skink.rooster465.autos:443?security=tls&sni=assuring-skink.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-176.34.5.100-0222
 trojan://UX82473651@assuring-skink.rooster465.autos:443?sni=assuring-skink.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2313
 trojan://UX82473651@brief-glider.rooster465.autos:443?allowInsecure=0&sni=brief-glider.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2315
@@ -121,7 +120,6 @@ trojan://UX82473651@brief-glider.rooster465.autos:443?allowInsecure=0&sni=brief-
 trojan://UX82473651@brief-glider.rooster465.autos:443?allowInsecure=0&sni=brief-glider.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2315%205
 trojan://UX82473651@brief-glider.rooster465.autos:443?allowInsecure=0&sni=brief-glider.rooster465.autos#JP-13.230.139.12-0125
 trojan://UX82473651@brief-glider.rooster465.autos:443?allowInsecure=1&sni=brief-glider.rooster465.autos#JP🇯🇵
-trojan://UX82473651@brief-glider.rooster465.autos:443?security=tls&sni=brief-glider.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.230.139.12-0131
 trojan://UX82473651@brief-glider.rooster465.autos:443?security=tls&sni=brief-glider.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.230.139.12-0254
 trojan://UX82473651@brief-glider.rooster465.autos:443?sni=brief-glider.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2315
 trojan://UX82473651@comic-poodle.rooster465.autos:443?allowInsecure=0&sni=comic-poodle.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2310
@@ -131,7 +129,6 @@ trojan://UX82473651@comic-poodle.rooster465.autos:443?allowInsecure=0&sni=comic-
 trojan://UX82473651@comic-poodle.rooster465.autos:443?allowInsecure=0&sni=comic-poodle.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2310%205
 trojan://UX82473651@comic-poodle.rooster465.autos:443?allowInsecure=0&sni=comic-poodle.rooster465.autos#JP-54.249.36.167-0115
 trojan://UX82473651@comic-poodle.rooster465.autos:443?allowInsecure=1&sni=comic-poodle.rooster465.autos#JP🇯🇵
-trojan://UX82473651@comic-poodle.rooster465.autos:443?security=tls&sni=comic-poodle.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.249.36.167-0124
 trojan://UX82473651@comic-poodle.rooster465.autos:443?security=tls&sni=comic-poodle.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.249.36.167-0234
 trojan://UX82473651@comic-poodle.rooster465.autos:443?sni=comic-poodle.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2310
 trojan://UX82473651@concrete-aardvark.rooster465.autos:443?allowInsecure=0&sni=concrete-aardvark.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%236
@@ -141,7 +138,6 @@ trojan://UX82473651@concrete-aardvark.rooster465.autos:443?allowInsecure=0&sni=c
 trojan://UX82473651@concrete-aardvark.rooster465.autos:443?allowInsecure=0&sni=concrete-aardvark.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%236%205
 trojan://UX82473651@concrete-aardvark.rooster465.autos:443?allowInsecure=0&sni=concrete-aardvark.rooster465.autos#JP-13.231.247.130-0120
 trojan://UX82473651@concrete-aardvark.rooster465.autos:443?allowInsecure=1&sni=concrete-aardvark.rooster465.autos#JP🇯🇵
-trojan://UX82473651@concrete-aardvark.rooster465.autos:443?security=tls&sni=concrete-aardvark.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.247.130-0127
 trojan://UX82473651@concrete-aardvark.rooster465.autos:443?security=tls&sni=concrete-aardvark.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.247.130-0231
 trojan://UX82473651@concrete-aardvark.rooster465.autos:443?sni=concrete-aardvark.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%236
 trojan://UX82473651@dynamic-imp.rooster465.autos:443?allowInsecure=0&sni=dynamic-imp.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%232
@@ -152,7 +148,6 @@ trojan://UX82473651@dynamic-imp.rooster465.autos:443?allowInsecure=0&sni=dynamic
 trojan://UX82473651@dynamic-imp.rooster465.autos:443?allowInsecure=0&sni=dynamic-imp.rooster465.autos#JP-3.112.245.255-0110
 trojan://UX82473651@dynamic-imp.rooster465.autos:443?allowInsecure=1&sni=dynamic-imp.rooster465.autos#JP🇯🇵
 trojan://UX82473651@dynamic-imp.rooster465.autos:443?security=tls&sni=dynamic-imp.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.245.255-0224
-trojan://UX82473651@dynamic-imp.rooster465.autos:443?security=tls&sni=dynamic-imp.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.245.255-2485
 trojan://UX82473651@dynamic-imp.rooster465.autos:443?sni=dynamic-imp.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%232
 trojan://UX82473651@evolving-platypus.rooster465.autos:443?allowInsecure=0&sni=evolving-platypus.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2314
 trojan://UX82473651@evolving-platypus.rooster465.autos:443?allowInsecure=0&sni=evolving-platypus.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2314%202
@@ -161,7 +156,6 @@ trojan://UX82473651@evolving-platypus.rooster465.autos:443?allowInsecure=0&sni=e
 trojan://UX82473651@evolving-platypus.rooster465.autos:443?allowInsecure=0&sni=evolving-platypus.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2314%205
 trojan://UX82473651@evolving-platypus.rooster465.autos:443?allowInsecure=0&sni=evolving-platypus.rooster465.autos#JP-52.192.217.187-0107
 trojan://UX82473651@evolving-platypus.rooster465.autos:443?allowInsecure=1&sni=evolving-platypus.rooster465.autos#JP🇯🇵
-trojan://UX82473651@evolving-platypus.rooster465.autos:443?security=tls&sni=evolving-platypus.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.192.217.187-0132
 trojan://UX82473651@evolving-platypus.rooster465.autos:443?security=tls&sni=evolving-platypus.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.192.217.187-0223
 trojan://UX82473651@evolving-platypus.rooster465.autos:443?sni=evolving-platypus.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2314
 trojan://UX82473651@fancy-javelin.rooster465.autos:443?allowInsecure=0&sni=fancy-javelin.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%239
@@ -171,7 +165,6 @@ trojan://UX82473651@fancy-javelin.rooster465.autos:443?allowInsecure=0&sni=fancy
 trojan://UX82473651@fancy-javelin.rooster465.autos:443?allowInsecure=0&sni=fancy-javelin.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%239%205
 trojan://UX82473651@fancy-javelin.rooster465.autos:443?allowInsecure=0&sni=fancy-javelin.rooster465.autos#JP-43.207.198.39-0109
 trojan://UX82473651@fancy-javelin.rooster465.autos:443?allowInsecure=1&sni=fancy-javelin.rooster465.autos#JP🇯🇵
-trojan://UX82473651@fancy-javelin.rooster465.autos:443?security=tls&sni=fancy-javelin.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.198.39-0128
 trojan://UX82473651@fancy-javelin.rooster465.autos:443?security=tls&sni=fancy-javelin.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.198.39-0229
 trojan://UX82473651@fancy-javelin.rooster465.autos:443?sni=fancy-javelin.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%239
 trojan://UX82473651@integral-rodent.rooster465.autos:443?allowInsecure=0&sni=integral-rodent.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2312
@@ -181,7 +174,6 @@ trojan://UX82473651@integral-rodent.rooster465.autos:443?allowInsecure=0&sni=int
 trojan://UX82473651@integral-rodent.rooster465.autos:443?allowInsecure=0&sni=integral-rodent.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2312%205
 trojan://UX82473651@integral-rodent.rooster465.autos:443?allowInsecure=0&sni=integral-rodent.rooster465.autos#JP-54.199.66.128-0111
 trojan://UX82473651@integral-rodent.rooster465.autos:443?allowInsecure=1&sni=integral-rodent.rooster465.autos#JP🇯🇵
-trojan://UX82473651@integral-rodent.rooster465.autos:443?security=tls&sni=integral-rodent.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.199.66.128-0125
 trojan://UX82473651@integral-rodent.rooster465.autos:443?security=tls&sni=integral-rodent.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.199.66.128-0233
 trojan://UX82473651@integral-rodent.rooster465.autos:443?sni=integral-rodent.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2312
 trojan://UX82473651@intense-sole.rooster465.autos:443?allowInsecure=0&sni=intense-sole.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%238
@@ -191,7 +183,6 @@ trojan://UX82473651@intense-sole.rooster465.autos:443?allowInsecure=0&sni=intens
 trojan://UX82473651@intense-sole.rooster465.autos:443?allowInsecure=0&sni=intense-sole.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%238%205
 trojan://UX82473651@intense-sole.rooster465.autos:443?allowInsecure=0&sni=intense-sole.rooster465.autos#JP-18.176.61.69-0119
 trojan://UX82473651@intense-sole.rooster465.autos:443?allowInsecure=1&sni=intense-sole.rooster465.autos#JP🇯🇵
-trojan://UX82473651@intense-sole.rooster465.autos:443?security=tls&sni=intense-sole.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.176.61.69-0130
 trojan://UX82473651@intense-sole.rooster465.autos:443?security=tls&sni=intense-sole.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.176.61.69-0258
 trojan://UX82473651@intense-sole.rooster465.autos:443?sni=intense-sole.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%238
 trojan://UX82473651@musical-terrier.rooster465.autos:443?allowInsecure=0&sni=musical-terrier.rooster465.autos#JP-13.230.91.226-0112
@@ -203,13 +194,11 @@ trojan://UX82473651@musical-terrier.rooster465.autos:443?allowInsecure=1&sni=mus
 trojan://UX82473651@musical-terrier.rooster465.autos:443?allowInsecure=1&sni=musical-terrier.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%233
 trojan://UX82473651@musical-terrier.rooster465.autos:443?allowInsecure=1&sni=musical-terrier.rooster465.autos#JP🇯🇵
 trojan://UX82473651@musical-terrier.rooster465.autos:443?security=tls&sni=musical-terrier.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.230.91.226-0230
-trojan://UX82473651@musical-terrier.rooster465.autos:443?security=tls&sni=musical-terrier.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.230.91.226-0525
 trojan://UX82473651@obliging-louse.rooster465.autos:443?allowInsecure=0&sni=obliging-louse.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%234
 trojan://UX82473651@obliging-louse.rooster465.autos:443?allowInsecure=0&sni=obliging-louse.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%234%203
 trojan://UX82473651@obliging-louse.rooster465.autos:443?allowInsecure=0&sni=obliging-louse.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%234%205
 trojan://UX82473651@obliging-louse.rooster465.autos:443?allowInsecure=0&sni=obliging-louse.rooster465.autos#JP-54.238.153.132-0118
 trojan://UX82473651@obliging-louse.rooster465.autos:443?allowInsecure=1&sni=obliging-louse.rooster465.autos#JP🇯🇵
-trojan://UX82473651@obliging-louse.rooster465.autos:443?security=tls&sni=obliging-louse.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.238.153.132-0122
 trojan://UX82473651@obliging-louse.rooster465.autos:443?security=tls&sni=obliging-louse.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.238.153.132-0226
 trojan://UX82473651@obliging-louse.rooster465.autos:443?sni=obliging-louse.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%234
 trojan://UX82473651@organic-caribou.rooster465.autos:443?allowInsecure=0&sni=organic-caribou.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%237
@@ -219,7 +208,6 @@ trojan://UX82473651@organic-caribou.rooster465.autos:443?allowInsecure=0&sni=org
 trojan://UX82473651@organic-caribou.rooster465.autos:443?allowInsecure=0&sni=organic-caribou.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%237%205
 trojan://UX82473651@organic-caribou.rooster465.autos:443?allowInsecure=0&sni=organic-caribou.rooster465.autos#JP-43.207.89.91-0113
 trojan://UX82473651@organic-caribou.rooster465.autos:443?allowInsecure=1&sni=organic-caribou.rooster465.autos#JP🇯🇵
-trojan://UX82473651@organic-caribou.rooster465.autos:443?security=tls&sni=organic-caribou.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.89.91-0121
 trojan://UX82473651@organic-caribou.rooster465.autos:443?security=tls&sni=organic-caribou.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.89.91-0227
 trojan://UX82473651@organic-caribou.rooster465.autos:443?sni=organic-caribou.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%237
 trojan://UX82473651@prime-corgi.rooster465.autos:443?allowInsecure=0&sni=prime-corgi.rooster465.autos#JP-54.249.55.154-0390
@@ -231,7 +219,6 @@ trojan://UX82473651@prime-corgi.rooster465.autos:443?allowInsecure=1&sni=prime-c
 trojan://UX82473651@prime-corgi.rooster465.autos:443?allowInsecure=1&sni=prime-corgi.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%205
 trojan://UX82473651@prime-corgi.rooster465.autos:443?allowInsecure=1&sni=prime-corgi.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20trojan-JP-...
 trojan://UX82473651@prime-corgi.rooster465.autos:443?security=tls&sni=prime-corgi.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.249.55.154-0221
-trojan://UX82473651@prime-corgi.rooster465.autos:443?security=tls&sni=prime-corgi.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.249.55.154-0403
 trojan://UX82473651@promoted-rattler.rooster465.autos:443?allowInsecure=0&sni=promoted-rattler.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2311
 trojan://UX82473651@promoted-rattler.rooster465.autos:443?allowInsecure=0&sni=promoted-rattler.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2311%202
 trojan://UX82473651@promoted-rattler.rooster465.autos:443?allowInsecure=0&sni=promoted-rattler.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2311%203
@@ -239,7 +226,6 @@ trojan://UX82473651@promoted-rattler.rooster465.autos:443?allowInsecure=0&sni=pr
 trojan://UX82473651@promoted-rattler.rooster465.autos:443?allowInsecure=0&sni=promoted-rattler.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2311%205
 trojan://UX82473651@promoted-rattler.rooster465.autos:443?allowInsecure=0&sni=promoted-rattler.rooster465.autos#JP-52.192.45.137-0114
 trojan://UX82473651@promoted-rattler.rooster465.autos:443?allowInsecure=1&sni=promoted-rattler.rooster465.autos#JP🇯🇵
-trojan://UX82473651@promoted-rattler.rooster465.autos:443?security=tls&sni=promoted-rattler.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.192.45.137-0123
 trojan://UX82473651@promoted-rattler.rooster465.autos:443?security=tls&sni=promoted-rattler.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.192.45.137-0251
 trojan://UX82473651@promoted-rattler.rooster465.autos:443?sni=promoted-rattler.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%2311
 trojan://UX82473651@winning-marten.rooster465.autos:443?allowInsecure=0&sni=winning-marten.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%235
@@ -249,7 +235,6 @@ trojan://UX82473651@winning-marten.rooster465.autos:443?allowInsecure=0&sni=winn
 trojan://UX82473651@winning-marten.rooster465.autos:443?allowInsecure=0&sni=winning-marten.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%235%205
 trojan://UX82473651@winning-marten.rooster465.autos:443?allowInsecure=0&sni=winning-marten.rooster465.autos#JP-54.65.177.190-0117
 trojan://UX82473651@winning-marten.rooster465.autos:443?allowInsecure=1&sni=winning-marten.rooster465.autos#JP🇯🇵
-trojan://UX82473651@winning-marten.rooster465.autos:443?security=tls&sni=winning-marten.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.65.177.190-0120
 trojan://UX82473651@winning-marten.rooster465.autos:443?security=tls&sni=winning-marten.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.65.177.190-0228
 trojan://UX82473651@winning-marten.rooster465.autos:443?sni=winning-marten.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%5Bwww.v2nodes.com%5D%20trojan-JP-...%20%235
 trojan://c09eb137-bf68-4658-84e0-102d94b74168@150.230.217.213:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.217.213-3464
@@ -257,6 +242,7 @@ trojan://c19d1432-8b3e-4818-8837-3d160cf65908@138.2.45.243:443?security=tls#%F0%
 trojan://c51d3975-a40c-4a5b-929b-c8595ed87850@15.168.28.231:443?security=tls&sni=wel-usgt.optage.moe#%F0%9F%87%AF%F0%9F%87%B5JP-15.168.28.231-5080
 trojan://d06a3f01-1ff0-4792-9b8e-a5a604bc74a2@168.138.43.89:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-168.138.43.89-3311
 trojan://da777aae-defb-41d0-a183-2c27da2b4677@150.230.96.103:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.96.103-3595
+trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?allowInsecure=1&sni=45.32.52.173#🇯🇵JP-🚀@VPNine1
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?security=tls&sni=45.32.52.173#%F0%9F%87%AF%F0%9F%87%B5JP-45.32.52.173-0677
 trojan://f42e1a2e-e650-44f4-8d17-bcb68663da18@150.230.201.192:443?security=tls&sni=www.seetheworldjp.ga#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.201.192-5077
 trojan://i99Cef@45.76.51.23:443?security=tls&sni=download.windowsupdate.com#%F0%9F%87%AF%F0%9F%87%B5JP-45.76.51.23-2718
@@ -264,6 +250,7 @@ trojan://tsuchiya@aa.ccmusic.jp:443/?type=tcp&security=tls#-%3EJP%2B%28%40DeamNe
 vless://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=cloudcircus.jp&fp=chrome&security=reality&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sid=#-%3EJP%2B%28%40DeamNet_Proxy%29%20%287%29
 vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477/?type=raw&encryption=none#JP-%3EJP%2B%28%40DeamNet_Proxy%29
 vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&security=reality&encryption=none&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#REALITY|JP🇯🇵
+vless://33e87cba-907f-4990-8dbd-a9d14e5d17e1@216.23.123.64:30718?sni=qqyst.sfht.kdns.fr&type=ws&host=qqyst.sfht.kdns.fr&path=/?ed=2048fp=chrome&security=tls#JP%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9133
 vless://36477315-2e11-4478-b85c-549133624eef@178.253.245.144:21562/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.nazhumi.com&fp=chrome&security=reality&pbk=saEF9IjGEOga3eZG962AMJRTM93cnsVVziketYU6s1M&sid=#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FShibuya%20City%F0%9F%85%BF%EF%B8%8Fping%3A234ms
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.50.53:443?path=%2Ftyxyws%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=jp3.yohototo.top&type=ws&allowInsecure=0&sni=jp3.yohototo.top#JP🇯🇵
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.75.118.144:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#JP🇯🇵
@@ -345,7 +332,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgREExRThGIiwiYWRk
 vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgRUYwOUE2IiwiYWRkIjoicWRpeXNseS1nMDUuanAwNi1qei12bTAuZW50cnkuZnIwNTI4LmFydCIsInBvcnQiOiIyODc4NyIsImlkIjoiMmNlMDA1YjQtZTU3YS0zNjcwLWJlODgtNjBlZWViMDc4YmI3IiwiYWlkIjoiMSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwic25pIjoicWRpeXNseS1nMDUuanAwNi1qei12bTAuZW50cnkuZnIwNTI4LmFydCJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgRkNDQzIxIiwiYWRkIjoicjhmNG4tZzA1LmpwMDItZTMtdm0wLmVudHJ5LmZyMDUyOC5hcnQiLCJwb3J0IjoiMTE3NzciLCJpZCI6IjhlZTY1Yzc5LTQ0ODctMzJmZi1iODk2LTYyYzhkY2UwNTkyMSIsImFpZCI6IjEiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgRkY1RDE0IiwiYWRkIjoiZzAzLmpwMDItZTMtdm0wLmVudHJ5LmZyMDUyOC5hcnQiLCJwb3J0IjoiMTE3NzUiLCJpZCI6ImE4NTE1MGJhLWRhZTMtMzA1NS04OTg0LTcwMGZhY2E0ZDU3NiIsImFpZCI6IjEiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1KUCIsImFkZCI6Im9yLjUyMTE2Ni54eXoiLCJwb3J0IjoiMjA4MyIsImlkIjoiYWMyNTEyMzctNTc2Zi00MGM4LWE1NDMtNTU0OTYwYzk1OGIxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJvci41MjExNjYueHl6IiwicGF0aCI6Ilwvb3IzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vmess://eyJhZGQiOiI0NS4xOTIuMjA2LjYiLCJhaWQiOjAsImhvc3QiOiJpbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tIiwiaWQiOiI5ZWJlY2Y1ZS1iMTYwLTQzYmQtODA2ZS01NGNkOTk0ZmM0YzMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaW1hZ2UiLCJwb3J0IjoiODA4MCIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgQUI0MDY1Iiwic25pIjoiaW1hZ2VzLW5hLnNzbC1pbWFnZXMtYW1hem9uLmNvbSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxNDAuMjM4LjU1Ljg0IiwiYWlkIjoiMCIsImlkIjoiYWMyNTEyMzctNTc2Zi00MGM4LWE1NDMtNTU0OTYwYzk1OGIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL29yMyIsInBvcnQiOiIyMDgzIiwicHMiOiJKUCDwn4ev8J+HtSB8IEBSYXlkaWthbHggfCBFNkQ0NEQiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoib3IuNTIxMTY2Lnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNDAuODMuNTEuMTYxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoianAwMi5hMGEueHl6IiwiaWQiOiI2NzMzYzM1Ny1iYTExLTRlOWYtZjAwZi03ZDg3ZjI3NzZmZjkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoiMjU2ODYiLCJwcyI6IkpQIPCfh6/wn4e1IHwgQFJheWRpa2FseCB8IEQ1OUM3RiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoidm1lc3MiLCJ2IjoiMiJ9
