@@ -7,6 +7,7 @@ ss://d342d11e-d224-4463-b982-532309285094@23.95.225.10:8443?&security=tls&fp=chr
 ss://d342d11e-d224-4463-b982-532309285094@23.95.225.10:8443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2Ffp%3Dchrome#%5Bwww.v2nodes.com%5D%20vless-IE-3...%202
 ss://d342d11e-d224-4463-b982-532309285094@23.95.225.10:8443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2Ffp%3Dchrome#%5Bwww.v2nodes.com%5D%20vless-IE-3...%203
 ss://d342d11e-d224-4463-b982-532309285094@23.95.225.10:8443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-IE-3...
+ss://d342d11e-d224-4463-b982-532309285094@23.95.225.10:8443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chromesecurity=tls#%F0%9F%87%AE%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-IE-4...%20%231
 trojan://CF68213490@adapting-basilisk.rooster465.autos:443?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-54.72.130.222-5423
 trojan://CF68213490@careful-penguin.rooster465.autos:443?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-3.249.220.51-5317
 trojan://EQ30679154@well-goshawk.rooster465.autos:443?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-34.255.124.67-5476
@@ -20,9 +21,9 @@ trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=1&sni=loved-s
 trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=1&sni=loved-shark.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-IE-...%203
 trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=1&sni=loved-shark.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-IE-...%204
 trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=1&sni=loved-shark.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-IE-...%205
-trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=1&sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20trojan-IE-...
 trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=1&sni=loved-shark.rooster465.autos#IE🇮🇪
 trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.106.233-0147
+trojan://UX82473651@loved-shark.rooster465.autos:443?sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20trojan-IE-...
 trojan://UX82473651@sacred-anemone.rooster465.autos:443#IE🇮🇪
 trojan://UX82473651@sacred-anemone.rooster465.autos:443?allowInsecure=0&sni=sacred-anemone.rooster465.autos#IE%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa9a.xyz%E3%80%9110
 trojan://UX82473651@sacred-anemone.rooster465.autos:443?allowInsecure=0&sni=sacred-anemone.rooster465.autos#IE-34.242.77.118-0394
@@ -41,6 +42,7 @@ vless://d342d11e-d224-4463-b982-532309285094@23.95.225.10:8443?&security=tls&fp=
 vless://d342d11e-d224-4463-b982-532309285094@23.95.225.10:8443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2Ffp%3Dchrome#%5Bwww.v2nodes.com%5D%20vless-IE-3...%202
 vless://d342d11e-d224-4463-b982-532309285094@23.95.225.10:8443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2Ffp%3Dchrome#%5Bwww.v2nodes.com%5D%20vless-IE-3...%203
 vless://d342d11e-d224-4463-b982-532309285094@23.95.225.10:8443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-IE-3...
+vless://d342d11e-d224-4463-b982-532309285094@23.95.225.10:8443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chromesecurity=tls#%F0%9F%87%AE%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-IE-4...%20%231
 vmess://ewogICAgImFkZCI6ICI0NS4xMzEuMjQ4LjE0MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNTU3ZTUzMmUtZGU0YS00YjNlLTlmYjItNWQzNTVjY2I1ZGE5IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDUwMDY4LAogICAgInBzIjogIvCfh67wn4eqSUUtNDUuMTMxLjI0OC4xNDAtNzY0NCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICI0NS4xMzEuMjQ4LjE0MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNTU3ZTUzMmUtZGU0YS00YjNlLTlmYjItNWQzNTVjY2I1ZGE5IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDUwMDY4LAogICAgInBzIjogIvCfh67wn4eqSUUtNDUuMTMxLjI0OC4xNDAtNzY0NiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICI0NS4xMzEuMjQ4LjIyOCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYWMwMjczNjItYzk4OC00NjcwLWY3OGYtMDIxYjViZTZmNGUzIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDU5MTAyLAogICAgInBzIjogIvCfh67wn4eqSUUtNDUuMTMxLjI0OC4yMjgtNzY0MSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
