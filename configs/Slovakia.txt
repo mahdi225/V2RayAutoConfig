@@ -1,4 +1,6 @@
+ss://288854d3-fc4c-4735-a0ee-0d223841a71e@80.243.228.25:2085?security=none&spx=%2FAhmadV2ray&mode=multi&type=grpc&encryption=none&fm=AhmadV2ray&serviceName=vless#SK🇸🇰
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443/?type=raw&encryption=none&security=tls&sni=cdn7-39.vk-cdnvideo.com&fp=chrome#-%3ESK%2B%28%40DeamNet_Proxy%29
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.162:8443/?type=tcp&encryption=none&security=tls&sni=cdn7-39.vk-cdnvideo.com&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ASK%20%281%29
+vless://288854d3-fc4c-4735-a0ee-0d223841a71e@80.243.228.25:2085?security=none&spx=%2FAhmadV2ray&mode=multi&type=grpc&encryption=none&fm=AhmadV2ray&serviceName=vless#SK🇸🇰
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443/?type=raw&encryption=none&security=tls&sni=cdn7-39.vk-cdnvideo.com&fp=chrome#-%3ESK%2B%28%40DeamNet_Proxy%29
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.162:8443/?type=tcp&encryption=none&security=tls&sni=cdn7-39.vk-cdnvideo.com&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ASK%20%281%29
