@@ -27,7 +27,6 @@ trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=0&sni=loved-s
 trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=1#IE🇮🇪
 trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=1&sni=loved-shark.rooster465.autos#IE🇮🇪
 trojan://UX82473651@loved-shark.rooster465.autos:443?mux=1&allowInsecure=1&sni=loved-shark.rooster465.autos#IE🇮🇪
-trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.106.233-0140
 trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.106.233-0197
 trojan://UX82473651@loved-shark.rooster465.autos:443?sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20trojan-IE-...%20%231
 trojan://UX82473651@master-possum.rooster465.autos:443?allowInsecure=1&sni=master-possum.rooster465.autos#%E7%88%B1%E5%B0%94%E5%85%B0%20%7C%20IRL%20%231
@@ -41,7 +40,6 @@ trojan://UX82473651@sacred-anemone.rooster465.autos:443?allowInsecure=0&sni=sacr
 trojan://UX82473651@sacred-anemone.rooster465.autos:443?allowInsecure=0&sni=sacred-anemone.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-IE-...%206
 trojan://UX82473651@sacred-anemone.rooster465.autos:443?allowInsecure=0&sni=sacred-anemone.rooster465.autos#IE-34.242.77.118-0237
 trojan://UX82473651@sacred-anemone.rooster465.autos:443?mux=1&allowInsecure=1&sni=sacred-anemone.rooster465.autos#IE🇮🇪
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&sni=sacred-anemone.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-34.242.77.118-0089
 trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&sni=sacred-anemone.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-34.242.77.118-0237
 trojan://UX82473651@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20trojan-IE-...
 trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-34.253.231.7-7294
