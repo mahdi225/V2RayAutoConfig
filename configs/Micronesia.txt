@@ -1,5 +1,4 @@
 ss://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.2:443?path=/tyxyws#telegram--V2ray_confiig&security=tls&encryption=none&fm={
-ss://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.12.94:443?path=/tyxyws#telegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&security=tls&encryption=none&fm={
 ss://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.16.10.2:443?path=/ws#TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&fm={
 ss://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.18.26.90:443?path=/ws#TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&fm={
 ss://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.18.32.87:443?path=/ws#/?TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&fm={
@@ -8,8 +7,8 @@ ss://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?path=/fp=chrome?ed#TE
 trojan://humanity@172.67.139.14:443?path=/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&fm={
 trojan://humanity@172.67.139.14:443?path=/assignment?ed#Telegram---V2ray_confiig&security=tls&alpn=http/1.1&fm={
 trojan://humanity@188.114.97.6:443?path=/assignment?ed#Telegram---V2ray_confiig&security=tls&alpn=http/1.1&fm={
+trojan://humanity@188.114.97.7:443?path=/assignment?ed#@VIProxysvless://357669c2-e067-4be1-b213-2c0c647c90a7@104.20.19.131:443?alpn=h3%2Ch2%2Chttp%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220%22%2C%22length%22%3A%221%22%2C%22maxSplit%22%3A%22%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome&type=xhttp&sni=1.ksaoeoqoeowo929.dpdns.org&mode=auto&path=%2Fapi&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConnections%22%3A%226%22%7D%7D&insecure=0&host=1.ksaoeoqoeowo929.dpdns.org&allowInsecure=0#@VIProxysvless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?type=ws&host=ovhwuxian.pai50288.uk&path=/57ba2ab1#@VIProxysvless://3f073591-ad53-4f73-89da-bca5379b9b1b@192.0.63.150:443?path=%2Fws&security=tls&alpn=h2&encryption=none&insecure=0&host=bomb.pasta-makers.online&fp=chrome&type=ws&allowInsecure=0&sni=bomb.pasta-makers.online#@VIProxys
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.2:443?path=/tyxyws#telegram--V2ray_confiig&security=tls&encryption=none&fm={
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.12.94:443?path=/tyxyws#telegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&security=tls&encryption=none&fm={
 vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.16.10.2:443?path=/ws#TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&fm={
 vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.18.26.90:443?path=/ws#TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&fm={
 vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.18.32.87:443?path=/ws#/?TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&fm={
