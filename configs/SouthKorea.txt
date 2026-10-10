@@ -1,4 +1,4 @@
-hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@52.79.249.116:443?insecure=1&sni=www.bing.com#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20%7C%20KOR%20%231
+hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@52.79.212.191:443?insecure=1&sni=www.bing.com#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20%7C%20KOR%20%232
 ss://319d5ffb-57e8-4bbd-ac0c-5d55d0c253de@47.80.19.173:2053?sni=gateway.icloud.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-KR-1...
 ss://573c6482-37db-454a-8c31-5b45a338a580@49.238.238.154:2053?encryption=none&security=tls&type=ws&host=and-75r.pages.dev&path=%2F&sni=and-75r.pages.dev&fp=chrome#KR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9143
 ss://573c6482-37db-454a-8c31-5b45a338a580@49.238.238.156:2096?encryption=none&security=tls&type=ws&host=and-75r.pages.dev&path=%2F&sni=and-75r.pages.dev&fp=chrome#KR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9139
@@ -56,6 +56,7 @@ trojan://UX82473651@3.34.131.153:443?#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com
 trojan://UX82473651@3.34.131.153:443?allowInsecure=0&sni=pretty-rat.rooster465.autos#%5Bwww.v2nodes.com%5D%20trojan-KR-...%20%2314%204
 trojan://UX82473651@3.34.131.153:443?allowInsecure=0&sni=pretty-rat.rooster465.autos#KR-3.34.131.153-0514
 trojan://UX82473651@3.34.131.153:443?security=tls&sni=pretty-rat.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.131.153-0514
+trojan://UX82473651@52.78.203.191:443?#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-KR-...%20%238
 trojan://UX82473651@52.78.203.191:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-52.78.203.191-0508
 trojan://UX82473651@amazing-peacock.rooster465.autos:443?allowInsecure=1&sni=amazing-peacock.rooster465.autos#KR🇰🇷
 trojan://UX82473651@amazing-peacock.rooster465.autos:443?security=tls&sni=amazing-peacock.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.217.113-0509
@@ -84,7 +85,6 @@ trojan://UX82473651@delicate-buck.rooster465.autos:443?allowInsecure=0&sni=delic
 trojan://UX82473651@delicate-buck.rooster465.autos:443?allowInsecure=0&sni=delicate-buck.rooster465.autos#KR-52.78.203.191-0203
 trojan://UX82473651@delicate-buck.rooster465.autos:443?security=tls&sni=delicate-buck.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-52.78.203.191-0203
 trojan://UX82473651@delicate-buck.rooster465.autos:443?security=tls&sni=delicate-buck.rooster465.autos#KR🇰🇷
-trojan://UX82473651@delicate-buck.rooster465.autos:443?sni=delicate-buck.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-KR-...%20%238
 trojan://UX82473651@engaging-toucan.rooster465.autos:443?allowInsecure=0&sni=engaging-toucan.rooster465.autos#KR-13.125.69.162-0217
 trojan://UX82473651@engaging-toucan.rooster465.autos:443?allowInsecure=1&sni=engaging-toucan.rooster465.autos#KR🇰🇷
 trojan://UX82473651@engaging-toucan.rooster465.autos:443?security=tls&sni=engaging-toucan.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.69.162-0217
