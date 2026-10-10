@@ -1,6 +1,8 @@
-ss://65f6016c-1a49-4f54-88e0-49cc01f81152@80.243.228.98:2085?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#SK🇸🇰
+ss://41fe1f2f-f981-44a5-939f-9b59d15ca955@80.243.228.73:2085?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#SK🇸🇰
+ss://84a7add6-dab3-4af4-900b-192e3e338875@80.243.228.84:2085?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#SK🇸🇰
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443/?type=raw&encryption=none&security=tls&sni=cdn7-39.vk-cdnvideo.com&fp=chrome#-%3ESK%2B%28%40DeamNet_Proxy%29
 ss://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.162:8443/?type=tcp&encryption=none&security=tls&sni=cdn7-39.vk-cdnvideo.com&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ASK%20%281%29
-vless://65f6016c-1a49-4f54-88e0-49cc01f81152@80.243.228.98:2085?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#SK🇸🇰
+vless://41fe1f2f-f981-44a5-939f-9b59d15ca955@80.243.228.73:2085?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#SK🇸🇰
+vless://84a7add6-dab3-4af4-900b-192e3e338875@80.243.228.84:2085?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#SK🇸🇰
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443/?type=raw&encryption=none&security=tls&sni=cdn7-39.vk-cdnvideo.com&fp=chrome#-%3ESK%2B%28%40DeamNet_Proxy%29
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.162:8443/?type=tcp&encryption=none&security=tls&sni=cdn7-39.vk-cdnvideo.com&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ASK%20%281%29
